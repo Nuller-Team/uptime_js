@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n-s-apps.nuller.jp.ico",
     "slug": "n-s-apps",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 295,
-    "timeWeek": 412,
-    "timeMonth": 361,
-    "timeYear": 412,
+    "uptime": "99.63%",
+    "uptimeDay": "11.90%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "99.63%",
+    "time": 411,
+    "timeDay": 220,
+    "timeWeek": 389,
+    "timeMonth": 358,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-10-21": 0
+      "2025-10-22": 53,
+      "2025-10-21": 1215
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.nuller.jp.ico",
     "slug": "nuller-apps",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 187,
+    "uptime": "99.63%",
+    "uptimeDay": "11.90%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "99.63%",
+    "time": 401,
+    "timeDay": 149,
     "timeWeek": 330,
-    "timeMonth": 387,
-    "timeYear": 402,
+    "timeMonth": 383,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-10-21": 0
+      "2025-10-22": 53,
+      "2025-10-21": 1215
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.nuller.jp.ico",
     "slug": "nuller-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 190,
-    "timeWeek": 307,
+    "uptime": "99.63%",
+    "uptimeDay": "11.90%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "99.63%",
+    "time": 329,
+    "timeDay": 143,
+    "timeWeek": 297,
     "timeMonth": 326,
-    "timeYear": 330,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-10-21": 0
+      "2025-10-22": 53,
+      "2025-10-21": 1215
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nuller.jp.ico",
     "slug": "nuller-jp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.63%",
+    "uptimeDay": "11.90%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "99.63%",
     "time": 256,
-    "timeDay": 82,
-    "timeWeek": 170,
-    "timeMonth": 178,
+    "timeDay": 128,
+    "timeWeek": 179,
+    "timeMonth": 177,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-10-21": 0
+      "2025-10-22": 53,
+      "2025-10-21": 1215
     }
   }
 ]
